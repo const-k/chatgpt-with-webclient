@@ -1,0 +1,5 @@
+service:
+  chatgpt:
+    host: https://api.openai.com
+  papago:
+    host: https://openapi.naver.com
